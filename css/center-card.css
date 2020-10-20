@@ -1,0 +1,42 @@
+.v-center {
+    padding-top: calc((100vh - 80vh) / 2);
+}
+
+.card {
+    height: 80vh;
+    width: 80vw;
+    border: 1px solid;
+    border-radius: 1.8vw;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.logo {
+    height: 30vh;
+    background-image: url(../img/ntu_logo.png);
+    background-size: cover;
+}
+
+.person {
+    width: 20vw;
+    height: 50vh;
+    background-image: url(https://thispersondoesnotexist.com/image);
+    background-size: cover;
+    background-position-x: -23px;
+    display: inline-block;
+}
+
+.data {
+    height: 50vh;
+    width: 60vw;
+    display: inline-block;
+
+}
+
+.pic {
+    display: inline-block;
+}
+
+.line {
+    height: 10vh;
+}
